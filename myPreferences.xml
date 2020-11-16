@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="tema5">
+      <map>
+        <entry key="A0" value="0"/>
+        <entry key="B0" value="8"/>
+        <entry key="C0" value="8"/>
+        <entry key="D0" value="4"/>
+        <entry key="E0" value="6"/>
+        <entry key="A1" value="6"/>
+        <entry key="B1" value="6"/>
+        <entry key="C1" value="0"/>
+        <entry key="D1" value="8"/>
+        <entry key="E1" value="9"/>
+        <entry key="A2" value="1"/>
+        <entry key="B2" value="9"/>
+        <entry key="C2" value="1"/>
+        <entry key="D2" value="5"/>
+        <entry key="E2" value="1"/>
+        <entry key="A3" value="1"/>
+        <entry key="B3" value="8"/>
+        <entry key="C3" value="5"/>
+        <entry key="D3" value="4"/>
+        <entry key="E3" value="4"/>
+      </map>
+    </node>
+  </root>
+</preferences>
